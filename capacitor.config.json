@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "prefers-color-scheme-not-updating",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
